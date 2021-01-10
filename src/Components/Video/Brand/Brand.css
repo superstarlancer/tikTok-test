@@ -1,0 +1,21 @@
+.brand {
+  position: absolute;
+  color: white;
+  top: 10px;
+  left: 1rem;
+}
+.brand h3 {
+  font-weight: normal;
+  margin-left: 0.4rem;
+}
+.brand__name {
+  display: flex;
+}
+
+.brand__logo {
+  height: 30px;
+}
+
+.brand__name > h2 {
+  text-shadow: 2px 1px 0px red, -1px -1px 0px rgb(21, 185, 185);
+}
